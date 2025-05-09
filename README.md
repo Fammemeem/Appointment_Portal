@@ -21,3 +21,18 @@ The Admin can create doctor and patient profiles by entering relevant informatio
 - Start XAMPP to run the database server (MySQL)
 - Enter valid login credentials
 
+![login screen](https://github.com/user-attachments/assets/1dff92aa-6c83-4156-98de-7148e167e231)
+![Home page](https://github.com/user-attachments/assets/42bb03a8-9474-4880-8387-ff5aadc41f93) 
+![add new doctor](https://github.com/user-attachments/assets/1d50091b-8abb-45d4-a7fb-1dfeca2aa612) 
+![doctor edit](https://github.com/user-attachments/assets/e2949b1c-a2fb-4b6b-8e31-a885d8c3e888)
+![add new patient](https://github.com/user-attachments/assets/1ae4aa7c-0a0b-4694-b2cc-cae0d4c817b7)
+![appointment_schedule](https://github.com/user-attachments/assets/1686af4c-1975-4929-82e7-fa6e44c197d0)
+![appointment_schedule edit 1](https://github.com/user-attachments/assets/17eb0b7b-9a03-43a8-8fa5-afbfeb53d52c)
+![appointment_schedule edit](https://github.com/user-attachments/assets/b204ef79-ad48-4607-b061-63d2e0066ec1)
+![change password](https://github.com/user-attachments/assets/f6e3cf32-c06b-4d16-a2c5-b2e1fcecd505)
+
+
+
+
+
+
