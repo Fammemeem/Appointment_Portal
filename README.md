@@ -12,7 +12,7 @@ After logging in, the Admin will be directed to the Home page and will see sever
 - User Management: Includes "Add New Doctor" and "Add New Patient"
 - Appointment Booking: Includes "Schedule Appointment"
 - Settings: Includes "Change Password" and "Logout"
-The Admin can create doctor and patient profiles by entering relevant information. Additionally, the Admin can schedule appointments and edit them as needed.
+The Admin can create doctor and patient profiles by entering relevant information. Additionally, the Admin can schedule appointments and filter, edit, and download information as needed.
 
 ## How to run this project:
 - Clone this project
