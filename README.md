@@ -21,6 +21,7 @@ The Admin can create doctor and patient profiles by entering relevant informatio
 - Start XAMPP to run the database server (MySQL)
 - Enter valid login credentials
 
+## Visual Representation of Appointment Portal Application:
 ![login screen](https://github.com/user-attachments/assets/1dff92aa-6c83-4156-98de-7148e167e231)
 ![Home page](https://github.com/user-attachments/assets/42bb03a8-9474-4880-8387-ff5aadc41f93) 
 ![add new doctor](https://github.com/user-attachments/assets/1d50091b-8abb-45d4-a7fb-1dfeca2aa612) 
